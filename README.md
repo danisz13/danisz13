@@ -1,4 +1,4 @@
-###Hey there! <img src="https://raw.githubusercontent.com/danisz13/danisz13/main/wave.gif" width="30px">
+##Hey there! <img src="https://raw.githubusercontent.com/danisz13/danisz13/main/wave.gif" width="30px">
 
 ## 🔧 Technologies & Tools
 
