@@ -1,6 +1,6 @@
 ## Hey there! <img src="https://raw.githubusercontent.com/danisz13/danisz13/main/wave.gif" width="30px">
 
-I'm Daniel Sanz and i am a software development student. Im from Spain and im looking forward to work when i finish my studies
+I'm Daniel Sanz and I am a software development student. I'm from Spain and im looking forward to learn mobile applications development
 
 ## 🔧 Technologies & Tools
 
