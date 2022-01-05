@@ -5,8 +5,8 @@ I'm Daniel Sanz and I am a software development student. I'm from Spain and im l
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Xamarin-61DAFB?logo=xamarin&logoColor=white&logoWidth=30)
-![](https://img.shields.io/badge/Code-Java-red?style=flat&logo=java&logoColor=white&logoWidth=30)
+![](https://img.shields.io/badge/Code-Xamarin-informational?style=flat&logo=xamarin&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
 ## &#x1f4c8; GitHub Stats
 
