@@ -1,5 +1,7 @@
 ## Hey there! <img src="https://raw.githubusercontent.com/danisz13/danisz13/main/wave.gif" width="30px">
 
+I'm Daniel Sanz and i am a software development student. Im from Spain and im looking forward to work when i finish my studies
+
 ## 🔧 Technologies & Tools
 
 https://img.shields.io/badge/-Xamarin-61DAFB?logo=xamarin&logoColor=white&logoWidth=30
